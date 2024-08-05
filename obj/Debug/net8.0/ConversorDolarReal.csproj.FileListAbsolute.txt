@@ -1,0 +1,14 @@
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\ConversorDolarReal.exe
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\ConversorDolarReal.deps.json
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\ConversorDolarReal.runtimeconfig.json
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\ConversorDolarReal.dll
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\ConversorDolarReal.pdb
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ConversorDolarReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ConversorDolarReal.AssemblyInfoInputs.cache
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ConversorDolarReal.AssemblyInfo.cs
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ConversorDolarReal.csproj.CoreCompileInputs.cache
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ConversorDolarReal.dll
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\ConversorDolarReal.dll
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ConversorDolarReal.pdb
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ConversorDolarReal.genruntimeconfig.cache
+C:\ProjetosVisual\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\ConversorDolarReal.dll
